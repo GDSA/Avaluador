@@ -1,3 +1,5 @@
+Copyright (c) <2013> <Ramon Franquesa Albertí - Carlos Martin Isla - Gonzalo Lopez Lillo - Aleix Gras Godoy>
+
 function varargout = csvimport( fileName, varargin )
 % CSVIMPORT reads the specified CSV file and stores the contents in a cell array or matrix
 %
