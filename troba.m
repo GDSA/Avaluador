@@ -1,3 +1,5 @@
+Copyright (c) <2013> <Ramon Franquesa Albertí - Carlos Martin Isla - Gonzalo Lopez Lillo - Aleix Gras Godoy>
+
 function x = troba(id,id1)
 n = length(id);
 x=0;
