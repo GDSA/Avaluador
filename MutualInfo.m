@@ -1,3 +1,5 @@
+Copyright (c) <2013> <Ramon Franquesa Albertí - Carlos Martin Isla - Gonzalo Lopez Lillo - Aleix Gras Godoy>
+
 function MIhat = MutualInfo(L1,L2)
 %   mutual information
 
