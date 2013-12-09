@@ -1,3 +1,5 @@
+Copyright (c) <2013> <Ramon Franquesa Albertí - Carlos Martin Isla - Gonzalo Lopez Lillo - Aleix Gras Godoy>
+
 function [name class] = spacecuter (str)
     s = char(str);
     n = find(s < char (33));
