@@ -1,0 +1,4 @@
+Avaluador
+=========
+
+Programa d'avaluació
