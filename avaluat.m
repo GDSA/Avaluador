@@ -1,3 +1,5 @@
+Copyright (c) <2013> <Ramon Franquesa Albertí - Carlos Martin Isla - Gonzalo Lopez Lillo - Aleix Gras Godoy>
+
 function OUT = avaluat(evento)
 
 a=strcat('concert');
